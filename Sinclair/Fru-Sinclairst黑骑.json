@@ -4203,7 +4203,7 @@
                                           "SpellId": 25754,
                                           "CoolDowncheck": false,
                                           "CoolDowncheck_time": 0.0,
-                                          "TargetType": 4,
+                                          "TargetType": 1,
                                           "IsPartyMember": true,
                                           "LimitJobType": 0,
                                           "LimitBuffIds": [],
@@ -4240,7 +4240,7 @@
                                     },
                                     "Id": 138,
                                     "Enable": true,
-                                    "Remark": "献奉ST"
+                                    "Remark": "献奉"
                                   },
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
@@ -4411,7 +4411,7 @@
                                           "SpellId": 25754,
                                           "CoolDowncheck": false,
                                           "CoolDowncheck_time": 0.0,
-                                          "TargetType": 1,
+                                          "TargetType": 4,
                                           "IsPartyMember": true,
                                           "LimitJobType": 0,
                                           "LimitBuffIds": [],
@@ -4448,7 +4448,7 @@
                                     },
                                     "Id": 144,
                                     "Enable": true,
-                                    "Remark": "献奉"
+                                    "Remark": "献奉MT"
                                   },
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
@@ -6901,7 +6901,7 @@
                                     },
                                     "Id": 224,
                                     "Enable": true,
-                                    "Remark": "黑盾ST"
+                                    "Remark": "黑盾MT"
                                   },
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",

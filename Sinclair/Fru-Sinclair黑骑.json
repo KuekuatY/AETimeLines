@@ -4523,7 +4523,7 @@
                                           "SpellId": 25754,
                                           "CoolDowncheck": false,
                                           "CoolDowncheck_time": 0.0,
-                                          "TargetType": 4,
+                                          "TargetType": 1,
                                           "IsPartyMember": true,
                                           "LimitJobType": 0,
                                           "LimitBuffIds": [],
@@ -4560,7 +4560,7 @@
                                     },
                                     "Id": 151,
                                     "Enable": true,
-                                    "Remark": "献奉ST"
+                                    "Remark": "献奉"
                                   },
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
@@ -4731,7 +4731,7 @@
                                           "SpellId": 25754,
                                           "CoolDowncheck": false,
                                           "CoolDowncheck_time": 0.0,
-                                          "TargetType": 1,
+                                          "TargetType": 4,
                                           "IsPartyMember": true,
                                           "LimitJobType": 0,
                                           "LimitBuffIds": [],
@@ -4768,7 +4768,7 @@
                                     },
                                     "Id": 157,
                                     "Enable": true,
-                                    "Remark": "献奉"
+                                    "Remark": "献奉ST"
                                   },
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
