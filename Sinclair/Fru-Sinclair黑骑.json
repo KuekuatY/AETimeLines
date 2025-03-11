@@ -7584,23 +7584,6 @@
                             "StopWhenDead": false,
                             "Childs": [
                               {
-                                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
-                                "OnlyCheck": false,
-                                "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.TLB)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
-                                "DisplayName": "脚本节点",
-                                "GUID": "43254fef-5cf3-4ee2-8a18-6b749ebd2906",
-                                "Important": false,
-                                "Color": {
-                                  "X": 1.0,
-                                  "Y": 1.0,
-                                  "Z": 0.4,
-                                  "W": 1.0
-                                },
-                                "Id": 251,
-                                "Enable": true,
-                                "Remark": "开启TLB"
-                              },
-                              {
                                 "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
                                 "CondLogicType": 0,
                                 "CheckOnce": false,
@@ -7624,9 +7607,26 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 252,
+                                "Id": 251,
                                 "Enable": true,
                                 "Remark": "潘多拉之盒"
+                              },
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
+                                "OnlyCheck": false,
+                                "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.TLB)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
+                                "DisplayName": "脚本节点",
+                                "GUID": "43254fef-5cf3-4ee2-8a18-6b749ebd2906",
+                                "Important": false,
+                                "Color": {
+                                  "X": 1.0,
+                                  "Y": 1.0,
+                                  "Z": 0.4,
+                                  "W": 1.0
+                                },
+                                "Id": 252,
+                                "Enable": true,
+                                "Remark": "开启TLB"
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
@@ -7793,8 +7793,8 @@
                           },
                           {
                             "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
-                            "DisplayName": "延迟[16.00]秒",
-                            "Delay": 16.0,
+                            "DisplayName": "延迟[14.00]秒",
+                            "Delay": 14.0,
                             "GUID": "1c7e9b6b-191e-4a77-91bb-d3581625bc3c",
                             "Important": false,
                             "Color": {
@@ -15229,23 +15229,6 @@
                     "StopWhenDead": false,
                     "Childs": [
                       {
-                        "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
-                        "OnlyCheck": false,
-                        "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.开场自动拉怪)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
-                        "DisplayName": "脚本节点",
-                        "GUID": "db9e3a2b-75dd-45da-8a9a-b1ff51a6183f",
-                        "Important": false,
-                        "Color": {
-                          "X": 1.0,
-                          "Y": 1.0,
-                          "Z": 0.4,
-                          "W": 1.0
-                        },
-                        "Id": 508,
-                        "Enable": true,
-                        "Remark": "勾选自动拉怪"
-                      },
-                      {
                         "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
                         "CondLogicType": 0,
                         "CheckOnce": false,
@@ -15267,9 +15250,26 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 509,
+                        "Id": 508,
                         "Enable": true,
                         "Remark": "重斩"
+                      },
+                      {
+                        "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
+                        "OnlyCheck": false,
+                        "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.开场自动拉怪)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
+                        "DisplayName": "脚本节点",
+                        "GUID": "db9e3a2b-75dd-45da-8a9a-b1ff51a6183f",
+                        "Important": false,
+                        "Color": {
+                          "X": 1.0,
+                          "Y": 1.0,
+                          "Z": 0.4,
+                          "W": 1.0
+                        },
+                        "Id": 509,
+                        "Enable": true,
+                        "Remark": "勾选自动拉怪"
                       },
                       {
                         "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
@@ -15427,6 +15427,32 @@
             "StopWhenDead": false,
             "Childs": [
               {
+                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                "CondLogicType": 0,
+                "CheckOnce": true,
+                "ReverseResult": false,
+                "TriggerConds": [
+                  {
+                    "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondCheckPartyRole, AEAssist",
+                    "PartyRole": "ST",
+                    "Remark": null,
+                    "DisplayName": "General/自身职能"
+                  }
+                ],
+                "DisplayName": "立即检测",
+                "GUID": "f2071f0a-2003-4a9a-9797-b38940b55976",
+                "Important": false,
+                "Color": {
+                  "X": 1.0,
+                  "Y": 1.0,
+                  "Z": 0.4,
+                  "W": 1.0
+                },
+                "Id": 515,
+                "Enable": true,
+                "Remark": ""
+              },
+              {
                 "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeExecuteAnotherTree, AEAssist",
                 "DisplayName": "执行其他时间轴",
                 "ConfigName": "Fru-Sinclair黑骑ST",
@@ -15438,7 +15464,7 @@
                   "Z": 0.4,
                   "W": 1.0
                 },
-                "Id": 515,
+                "Id": 516,
                 "Enable": true,
                 "Remark": ""
               }
@@ -15483,7 +15509,7 @@
   },
   "ExposedVars": [],
   "ExposedVarDesc": "",
-  "OpenerScript": "using AEAssist.CombatRoutine.Module;\nusing AEAssist.CombatRoutine;\nusing AEAssist;\nusing AEAssist.CombatRoutine.Module.Opener;\nusing Sinclair.DarkKnight.Data;\nusing AEAssist.Extension;\nusing AEAssist.Helper;\nusing AEAssist.CombatRoutine.Module.Target;\nusing AEAssist.MemoryApi;\nusing Sinclair.DarkKnight.Setting;\nusing System.Numerics;\n\n\nnamespace Sinclair.DarkKnight.Opener\n{\n    internal class 起手脚本test : IOpener\n    {\n        public int StartCheck()//什么时候会使用起手的检测\n        {\n            if (AI.Instance.BattleData.CurrBattleTimeInMs > 3000L)\n            {\n                return -9;\n            }\n\n            if (PartyHelper.Party.Count <= 4 && !Core.Me.GetCurrTarget().IsDummy() && !Core.Me.GetCurrTarget().IsBoss())\n            {\n                return -1;\n            }\n\n            if (!DarkKnightData.LivingShadow.GetSpell().IsReadyWithCanCast())\n            {\n                return -99;\n            }\n\n            if (!QT.QTGET(QTKey.UseOpener))\n            {\n                return -100;\n            }\n\n            return 0;\n        }\n\n        public int StopCheck(int index)//什么时候会停止起手\n        {\n            return -1;\n        }\n\n        public List<Action<Slot>> Sequence { get; } = new()\n        {\n        Step0,\n        Step1,\n        Step2,\n        Step3,\n        Step4,\n        Step5,\n        Step6,\n        Step7,\n        };\n\n\n\n        public void InitCountDown(CountDownHandler countDownHandler)//倒数行为\n        {\n            LogHelper.Print(\"全减死刑,挑衅起手\\n勾选自动拉怪后会在开场自动拉怪\\n如果是打ST请跟队内另外一个T沟通开场你打MT站位\");\n\n            Core.Resolve<MemApiMove>().MoveToTarget(new Vector3(100, 0, 103));\n\n            var FateBreaker = TargetMgr.Instance.Units.Values.First(u => u.DataId is 17819);\n\n            if (FateBreaker != null && FateBreaker.DataId == 17819)\n            {\n                Core.Resolve<MemApiTarget>().SetTarget(FateBreaker);\n            }\n\n            if (AI.Instance.PartyRole == \"ST\" && !Core.Me.HasAura(743U))\n            {\n                countDownHandler.AddAction(18000, DarkKnightData.Grit, SpellTargetType.Self);\n            }\n\n            if (DarkKnightSettings.Instance.倒计时黑盾 && AI.Instance.PartyRole == \"ST\")\n            {\n                countDownHandler.AddAction(DarkKnightSettings.Instance.倒计时黑盾时间 * 1000,\n                    DarkKnightData.TheBlackestNight, SpellTargetType.Self\n                );\n            }\n            countDownHandler.AddAction(10000, DarkKnightData.Sprint, SpellTargetType.Self);\n            countDownHandler.AddAction(500, DarkKnightData.Provoke, SpellTargetType.Target);\n\n            Core.Resolve<MemApiMove>().MoveToTarget(new Vector3(100, 0, 100));\n        }\n\n        private static void Step0(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.HardSlash, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.EdgeofShadow, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Provoke, SpellTargetType.Target));\n        }\n        private static void Step1(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.SyphonStrike, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.LivingShadow, SpellTargetType.Target));\n        }\n\n        private static void Step2(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Souleater, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Delirium, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.CarveandSpit, SpellTargetType.Target));\n        }\n        private static void Step3(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.ScarletDelirium, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.SaltedEarth, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.EdgeofShadow, SpellTargetType.Target));\n        }\n        private static void Step4(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Comeuppance, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Shadowbringer, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Reprisal, SpellTargetType.Self));\n        }\n\n        private static void Step5(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Torcleaver, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.ShadowedVigil, SpellTargetType.Self));\n            slot.Add(new Spell(DarkKnightData.SaltandDarkness, SpellTargetType.Target));\n        }\n        private static void Step6(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Disesteem, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Oblation, SpellTargetType.Self));\n            slot.Add(new Spell(DarkKnightData.Shadowbringer, SpellTargetType.Target));\n        }\n        private static void Step7(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Bloodspiller, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.TheBlackestNight, SpellTargetType.Self));\n        }\n        public Action CompeltedAction { get; set; }\n    }\n}",
+  "OpenerScript": "using AEAssist.CombatRoutine.Module;\nusing AEAssist.CombatRoutine;\nusing AEAssist;\nusing AEAssist.CombatRoutine.Module.Opener;\nusing Sinclair.DarkKnight.Data;\nusing AEAssist.Extension;\nusing AEAssist.Helper;\nusing AEAssist.CombatRoutine.Module.Target;\nusing AEAssist.MemoryApi;\nusing Sinclair.DarkKnight.Setting;\nusing System.Numerics;\n\n\nnamespace Sinclair.DarkKnight.Opener\n{\n    internal class 起手脚本test : IOpener\n    {\n        public int StartCheck()//什么时候会使用起手的检测\n        {\n            if (AI.Instance.BattleData.CurrBattleTimeInMs > 3000L)\n            {\n                return -9;\n            }\n\n            if (PartyHelper.Party.Count <= 4 && !Core.Me.GetCurrTarget().IsDummy() && !Core.Me.GetCurrTarget().IsBoss())\n            {\n                return -1;\n            }\n\n            if (!DarkKnightData.LivingShadow.GetSpell().IsReadyWithCanCast())\n            {\n                return -99;\n            }\n\n            if (!QT.QTGET(QTKey.UseOpener))\n            {\n                return -100;\n            }\n\n            return 0;\n        }\n\n        public int StopCheck(int index)//什么时候会停止起手\n        {\n            return -1;\n        }\n\n        public List<Action<Slot>> Sequence { get; } = new()\n        {\n        Step0,\n        Step1,\n        Step2,\n        Step3,\n        Step4,\n        Step5,\n        Step6,\n        Step7,\n        };\n\n\n\n        public void InitCountDown(CountDownHandler countDownHandler)//倒数行为\n        {\n            LogHelper.Print(\"全减死刑,挑衅起手\\n勾选自动拉怪后会在开场自动拉怪\\n如果是打ST请跟队内另外一个T沟通开场你打MT站位\");\n\n            var FateBreaker = TargetMgr.Instance.Units.Values.First(u => u.DataId is 17819);\n\n            if (FateBreaker != null && FateBreaker.DataId == 17819)\n            {\n                Core.Resolve<MemApiTarget>().SetTarget(FateBreaker);\n            }\n\n            if (AI.Instance.PartyRole == \"ST\" && !Core.Me.HasAura(743U))\n            {\n                countDownHandler.AddAction(18000, DarkKnightData.Grit, SpellTargetType.Self);\n            }\n\n            if (DarkKnightSettings.Instance.倒计时黑盾 && AI.Instance.PartyRole == \"ST\")\n            {\n                countDownHandler.AddAction(DarkKnightSettings.Instance.倒计时黑盾时间 * 1000,\n                    DarkKnightData.TheBlackestNight, SpellTargetType.Self\n                );\n            }\n            countDownHandler.AddAction(10000, DarkKnightData.Sprint, SpellTargetType.Self);\n            Core.Resolve<MemApiMove>().MoveToTarget(new Vector3(100, 0, 103));\n\n            countDownHandler.AddAction(500, DarkKnightData.Provoke, SpellTargetType.Target);\n            Core.Resolve<MemApiMove>().MoveToTarget(new Vector3(100, 0, 100));\n        }\n\n        private static void Step0(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.HardSlash, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.EdgeofShadow, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Provoke, SpellTargetType.Target));\n        }\n        private static void Step1(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.SyphonStrike, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.LivingShadow, SpellTargetType.Target));\n        }\n\n        private static void Step2(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Souleater, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Delirium, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.CarveandSpit, SpellTargetType.Target));\n        }\n        private static void Step3(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.ScarletDelirium, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.SaltedEarth, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.EdgeofShadow, SpellTargetType.Target));\n        }\n        private static void Step4(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Comeuppance, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Shadowbringer, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Reprisal, SpellTargetType.Self));\n        }\n\n        private static void Step5(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Torcleaver, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.ShadowedVigil, SpellTargetType.Self));\n            slot.Add(new Spell(DarkKnightData.SaltandDarkness, SpellTargetType.Target));\n        }\n        private static void Step6(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Disesteem, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.Oblation, SpellTargetType.Self));\n            slot.Add(new Spell(DarkKnightData.Shadowbringer, SpellTargetType.Target));\n        }\n        private static void Step7(Slot slot)\n        {\n            slot.Add(new Spell(DarkKnightData.Bloodspiller, SpellTargetType.Target));\n            slot.Add(new Spell(DarkKnightData.TheBlackestNight, SpellTargetType.Self));\n        }\n        public Action CompeltedAction { get; set; }\n    }\n}",
   "Note": "没填天气ID P1是1 雾龙阶段是2 P2是3 P3P4都是6 每次出灯变成7  P5是9 P5TLB可能会不放，读条到70%不开就手动开一下",
   "TerritoryTypeId": 1238,
   "TerritoryWeatherId": 0,

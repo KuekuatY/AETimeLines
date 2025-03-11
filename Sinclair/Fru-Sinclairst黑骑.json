@@ -7151,23 +7151,6 @@
                             "StopWhenDead": false,
                             "Childs": [
                               {
-                                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
-                                "OnlyCheck": false,
-                                "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.TLB)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
-                                "DisplayName": "脚本节点",
-                                "GUID": "43254fef-5cf3-4ee2-8a18-6b749ebd2906",
-                                "Important": false,
-                                "Color": {
-                                  "X": 1.0,
-                                  "Y": 1.0,
-                                  "Z": 0.4,
-                                  "W": 1.0
-                                },
-                                "Id": 234,
-                                "Enable": true,
-                                "Remark": "开启TLB"
-                              },
-                              {
                                 "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
                                 "CondLogicType": 0,
                                 "CheckOnce": false,
@@ -7191,9 +7174,26 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 235,
+                                "Id": 234,
                                 "Enable": true,
                                 "Remark": "潘多拉之盒"
+                              },
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
+                                "OnlyCheck": false,
+                                "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.TLB)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
+                                "DisplayName": "脚本节点",
+                                "GUID": "43254fef-5cf3-4ee2-8a18-6b749ebd2906",
+                                "Important": false,
+                                "Color": {
+                                  "X": 1.0,
+                                  "Y": 1.0,
+                                  "Z": 0.4,
+                                  "W": 1.0
+                                },
+                                "Id": 235,
+                                "Enable": true,
+                                "Remark": "开启TLB"
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
@@ -7360,8 +7360,8 @@
                           },
                           {
                             "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
-                            "DisplayName": "延迟[16.00]秒",
-                            "Delay": 16.0,
+                            "DisplayName": "延迟[14.00]秒",
+                            "Delay": 14.0,
                             "GUID": "1c7e9b6b-191e-4a77-91bb-d3581625bc3c",
                             "Important": false,
                             "Color": {
@@ -15119,23 +15119,6 @@
                     "StopWhenDead": false,
                     "Childs": [
                       {
-                        "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
-                        "OnlyCheck": false,
-                        "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.开场自动拉怪)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
-                        "DisplayName": "脚本节点",
-                        "GUID": "db9e3a2b-75dd-45da-8a9a-b1ff51a6183f",
-                        "Important": false,
-                        "Color": {
-                          "X": 1.0,
-                          "Y": 1.0,
-                          "Z": 0.4,
-                          "W": 1.0
-                        },
-                        "Id": 502,
-                        "Enable": true,
-                        "Remark": "勾选自动拉怪"
-                      },
-                      {
                         "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
                         "CondLogicType": 0,
                         "CheckOnce": false,
@@ -15157,9 +15140,26 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 503,
+                        "Id": 502,
                         "Enable": true,
                         "Remark": "重斩"
+                      },
+                      {
+                        "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
+                        "OnlyCheck": false,
+                        "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.开场自动拉怪)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
+                        "DisplayName": "脚本节点",
+                        "GUID": "db9e3a2b-75dd-45da-8a9a-b1ff51a6183f",
+                        "Important": false,
+                        "Color": {
+                          "X": 1.0,
+                          "Y": 1.0,
+                          "Z": 0.4,
+                          "W": 1.0
+                        },
+                        "Id": 503,
+                        "Enable": true,
+                        "Remark": "勾选自动拉怪"
                       },
                       {
                         "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
