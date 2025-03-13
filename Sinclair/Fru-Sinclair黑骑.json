@@ -211,7 +211,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40170",
                                         "NeedTargetable": false,
@@ -308,7 +307,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40197",
                                         "NeedTargetable": false,
@@ -385,7 +383,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40220",
                                         "NeedTargetable": false,
@@ -393,7 +390,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40221",
                                         "NeedTargetable": false,
@@ -506,7 +502,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40265",
                                         "NeedTargetable": false,
@@ -600,7 +595,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40282",
                                         "NeedTargetable": false,
@@ -694,7 +688,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40181",
                                         "NeedTargetable": false,
@@ -722,7 +715,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40282",
                                         "NeedTargetable": false,
@@ -882,7 +874,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40239",
                                         "NeedTargetable": false,
@@ -976,7 +967,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40298",
                                         "NeedTargetable": false,
@@ -984,7 +974,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40240",
                                         "NeedTargetable": false,
@@ -1110,7 +1099,6 @@
                                             "TriggerConds": [
                                               {
                                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                                "Strs": null,
                                                 "Remark": "",
                                                 "RegexNameOrId": "40316",
                                                 "NeedTargetable": false,
@@ -1204,7 +1192,6 @@
                                             "TriggerConds": [
                                               {
                                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                                "Strs": null,
                                                 "Remark": "",
                                                 "RegexNameOrId": "40326",
                                                 "NeedTargetable": false,
@@ -1297,7 +1284,6 @@
                                             "TriggerConds": [
                                               {
                                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                                "Strs": null,
                                                 "Remark": "",
                                                 "RegexNameOrId": "40316",
                                                 "NeedTargetable": false,
@@ -1427,7 +1413,6 @@
                                             "TriggerConds": [
                                               {
                                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                                "Strs": null,
                                                 "Remark": "",
                                                 "RegexNameOrId": "40306",
                                                 "NeedTargetable": false,
@@ -1505,7 +1490,6 @@
                                             "TriggerConds": [
                                               {
                                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                                "Strs": null,
                                                 "Remark": "",
                                                 "RegexNameOrId": "40326",
                                                 "NeedTargetable": false,
@@ -1599,7 +1583,6 @@
                                             "TriggerConds": [
                                               {
                                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                                "Strs": null,
                                                 "Remark": "",
                                                 "RegexNameOrId": "40306",
                                                 "NeedTargetable": false,
@@ -1767,7 +1750,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40191",
                                         "NeedTargetable": false,
@@ -1863,7 +1845,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40237",
                                         "NeedTargetable": false,
@@ -1891,7 +1872,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40283",
                                         "NeedTargetable": false,
@@ -1987,7 +1967,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -2031,7 +2010,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -2162,7 +2140,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40179",
                                         "NeedTargetable": false,
@@ -2275,7 +2252,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40282",
                                         "NeedTargetable": false,
@@ -2388,7 +2364,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40227",
                                         "NeedTargetable": false,
@@ -2396,7 +2371,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40228",
                                         "NeedTargetable": false,
@@ -2424,7 +2398,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40302",
                                         "NeedTargetable": false,
@@ -2432,7 +2405,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40247",
                                         "NeedTargetable": false,
@@ -2554,7 +2526,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -2781,7 +2752,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40168",
                                         "NeedTargetable": false,
@@ -2893,7 +2863,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40179",
                                         "NeedTargetable": false,
@@ -3006,7 +2975,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40269",
                                         "NeedTargetable": false,
@@ -3119,7 +3087,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40227",
                                         "NeedTargetable": false,
@@ -3127,7 +3094,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40228",
                                         "NeedTargetable": false,
@@ -3155,7 +3121,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40302",
                                         "NeedTargetable": false,
@@ -3163,7 +3128,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40247",
                                         "NeedTargetable": false,
@@ -3372,7 +3336,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -3416,7 +3379,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -3444,7 +3406,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40233",
                                         "NeedTargetable": false,
@@ -3452,7 +3413,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40313",
                                         "NeedTargetable": false,
@@ -3730,7 +3690,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40168",
                                         "NeedTargetable": false,
@@ -3842,7 +3801,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40179",
                                         "NeedTargetable": false,
@@ -4021,7 +3979,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40290",
                                         "NeedTargetable": false,
@@ -4118,7 +4075,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40237",
                                         "NeedTargetable": false,
@@ -4146,7 +4102,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40302",
                                         "NeedTargetable": false,
@@ -4154,7 +4109,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40247",
                                         "NeedTargetable": false,
@@ -4344,7 +4298,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40302",
                                         "NeedTargetable": false,
@@ -4352,7 +4305,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40247",
                                         "NeedTargetable": false,
@@ -4464,7 +4416,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -4492,7 +4443,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40233",
                                         "NeedTargetable": false,
@@ -4500,7 +4450,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40313",
                                         "NeedTargetable": false,
@@ -4578,7 +4527,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40306",
                                         "NeedTargetable": false,
@@ -4672,7 +4620,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -4700,7 +4647,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40233",
                                         "NeedTargetable": false,
@@ -4708,7 +4654,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40313",
                                         "NeedTargetable": false,
@@ -4786,7 +4731,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40306",
                                         "NeedTargetable": false,
@@ -4984,7 +4928,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40168",
                                         "NeedTargetable": false,
@@ -5093,7 +5036,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40168",
                                         "NeedTargetable": false,
@@ -5205,7 +5147,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40210",
                                         "NeedTargetable": false,
@@ -5318,7 +5259,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40282",
                                         "NeedTargetable": false,
@@ -5415,7 +5355,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40227",
                                         "NeedTargetable": false,
@@ -5423,7 +5362,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40228",
                                         "NeedTargetable": false,
@@ -5593,7 +5531,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -5715,7 +5652,6 @@
                                         "TriggerConds": [
                                           {
                                             "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                            "Strs": null,
                                             "Remark": "",
                                             "RegexNameOrId": "40168",
                                             "NeedTargetable": false,
@@ -5778,7 +5714,6 @@
                                         "TriggerConds": [
                                           {
                                             "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                            "Strs": null,
                                             "Remark": "",
                                             "RegexNameOrId": "40168",
                                             "NeedTargetable": false,
@@ -5909,7 +5844,6 @@
                                         "TriggerConds": [
                                           {
                                             "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                            "Strs": null,
                                             "Remark": "",
                                             "RegexNameOrId": "40191",
                                             "NeedTargetable": false,
@@ -6161,7 +6095,6 @@
                                         "TriggerConds": [
                                           {
                                             "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                            "Strs": null,
                                             "Remark": "",
                                             "RegexNameOrId": "40219",
                                             "NeedTargetable": false,
@@ -6189,7 +6122,6 @@
                                         "TriggerConds": [
                                           {
                                             "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                            "Strs": null,
                                             "Remark": "",
                                             "RegexNameOrId": "40189",
                                             "NeedTargetable": false,
@@ -6374,7 +6306,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40290",
                                         "NeedTargetable": false,
@@ -6452,7 +6383,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40181",
                                         "NeedTargetable": false,
@@ -6565,7 +6495,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40237",
                                         "NeedTargetable": false,
@@ -6593,7 +6522,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40302",
                                         "NeedTargetable": false,
@@ -6601,7 +6529,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40247",
                                         "NeedTargetable": false,
@@ -6840,7 +6767,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40302",
                                         "NeedTargetable": false,
@@ -6848,7 +6774,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40247",
                                         "NeedTargetable": false,
@@ -6998,7 +6923,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -7026,7 +6950,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40233",
                                         "NeedTargetable": false,
@@ -7034,7 +6957,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40313",
                                         "NeedTargetable": false,
@@ -7128,7 +7050,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40306",
                                         "NeedTargetable": false,
@@ -7222,7 +7143,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40319",
                                         "NeedTargetable": false,
@@ -7250,7 +7170,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40233",
                                         "NeedTargetable": false,
@@ -7258,7 +7177,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40313",
                                         "NeedTargetable": false,
@@ -7352,7 +7270,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40306",
                                         "NeedTargetable": false,
@@ -7465,7 +7382,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40310",
                                         "NeedTargetable": false,
@@ -7591,7 +7507,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40326",
                                     "NeedTargetable": false,
@@ -7883,7 +7798,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40197",
                                 "NeedTargetable": false,
@@ -7988,7 +7902,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40212",
                                 "NeedTargetable": false,
@@ -8101,7 +8014,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40293",
                                 "NeedTargetable": false,
@@ -8195,7 +8107,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40300",
                                 "NeedTargetable": false,
@@ -8292,7 +8203,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40298",
                                 "NeedTargetable": false,
@@ -8300,7 +8210,6 @@
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40240",
                                 "NeedTargetable": false,
@@ -8397,7 +8306,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40298",
                                 "NeedTargetable": false,
@@ -8405,7 +8313,6 @@
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40240",
                                 "NeedTargetable": false,
@@ -8548,7 +8455,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40310",
                                 "NeedTargetable": false,
@@ -8642,7 +8548,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40310",
                                 "NeedTargetable": false,
@@ -8736,7 +8641,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40310",
                                 "NeedTargetable": false,
@@ -9022,7 +8926,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40191",
                                     "NeedTargetable": false,
@@ -9192,7 +9095,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40219",
                                     "NeedTargetable": false,
@@ -9393,7 +9295,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40265",
                                     "NeedTargetable": false,
@@ -9617,7 +9518,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40266",
                                     "NeedTargetable": false,
@@ -9898,7 +9798,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40298",
                                     "NeedTargetable": false,
@@ -9906,7 +9805,6 @@
                                   },
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40240",
                                     "NeedTargetable": false,
@@ -10089,7 +9987,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40197",
                                     "NeedTargetable": false,
@@ -10161,7 +10058,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40212",
                                     "NeedTargetable": false,
@@ -10217,7 +10113,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40224",
                                     "NeedTargetable": false,
@@ -10426,7 +10321,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40197",
                                     "NeedTargetable": false,
@@ -10568,7 +10462,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40154",
                                         "NeedTargetable": false,
@@ -10576,7 +10469,6 @@
                                       },
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40155",
                                         "NeedTargetable": false,
@@ -10689,7 +10581,6 @@
                                     "TriggerConds": [
                                       {
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                        "Strs": null,
                                         "Remark": "",
                                         "RegexNameOrId": "40170",
                                         "NeedTargetable": false,
@@ -10968,7 +10859,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40191",
                                     "NeedTargetable": false,
@@ -11074,7 +10964,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40197",
                                     "NeedTargetable": false,
@@ -11168,7 +11057,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40212",
                                     "NeedTargetable": false,
@@ -11240,7 +11128,6 @@
                                 "TriggerConds": [
                                   {
                                     "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                    "Strs": null,
                                     "Remark": "",
                                     "RegexNameOrId": "40224",
                                     "NeedTargetable": false,
@@ -12069,7 +11956,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40168",
                                 "NeedTargetable": false,
@@ -12204,6 +12090,99 @@
                             "Id": 419,
                             "Enable": true,
                             "Remark": "关盾"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
+                            "DisplayName": "延迟[5.00]秒",
+                            "Delay": 5.0,
+                            "GUID": "e5626f2d-6d1d-41f0-8a8d-6869772747d2",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 420,
+                            "Enable": true,
+                            "Remark": ""
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                            "CondLogicType": 0,
+                            "CheckOnce": false,
+                            "ReverseResult": false,
+                            "TriggerConds": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
+                                "Remark": "",
+                                "RegexNameOrId": "40168",
+                                "NeedTargetable": false,
+                                "DisplayName": "General/敌人读条使用技能"
+                              }
+                            ],
+                            "DisplayName": "等待条件",
+                            "GUID": "28a684be-4c9f-4299-8743-a217169cc168",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 421,
+                            "Enable": true,
+                            "Remark": "连锁爆印刻"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
+                            "TriggerActions": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionHighPrioritySlot, AEAssist",
+                                "SpellConfig": {
+                                  "Remark": "",
+                                  "Category": 0,
+                                  "SpellId": 7533,
+                                  "CoolDowncheck": false,
+                                  "CoolDowncheck_time": 0.0,
+                                  "TargetType": 0,
+                                  "IsPartyMember": true,
+                                  "LimitJobType": 0,
+                                  "LimitBuffIds": [],
+                                  "LimitMaxHpType": 0,
+                                  "LimitHpType": 0,
+                                  "Location": {
+                                    "X": 0.0,
+                                    "Y": 0.0,
+                                    "Z": 0.0
+                                  },
+                                  "TargetSelector": {
+                                    "Enable": false,
+                                    "Target": 0,
+                                    "FilterDatas": [],
+                                    "NeedTargetable": false,
+                                    "SndFilter": 0,
+                                    "PMIndex": 0
+                                  },
+                                  "AutoCheckActionChange": true
+                                },
+                                "Clear": false,
+                                "DisplayName": "技能使用/插入高优先级技能",
+                                "Remark": null
+                              }
+                            ],
+                            "DisplayName": "行为",
+                            "GUID": "48eadb69-540b-480c-b9fd-92ff2f3b1506",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 422,
+                            "Enable": true,
+                            "Remark": "挑衅"
                           }
                         ],
                         "GUID": "8672cd60-9671-4d15-8bd6-8b1f47b7b365",
@@ -12246,7 +12225,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 421,
+                            "Id": 424,
                             "Enable": true,
                             "Remark": "p2天气"
                           },
@@ -12296,7 +12275,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 422,
+                            "Id": 425,
                             "Enable": true,
                             "Remark": "开盾"
                           },
@@ -12343,7 +12322,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 423,
+                            "Id": 426,
                             "Enable": true,
                             "Remark": "希瓦可选中"
                           },
@@ -12359,7 +12338,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 424,
+                            "Id": 427,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -12409,7 +12388,84 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 425,
+                            "Id": 428,
+                            "Enable": true,
+                            "Remark": "挑衅"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                            "CondLogicType": 0,
+                            "CheckOnce": false,
+                            "ReverseResult": false,
+                            "TriggerConds": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
+                                "Remark": "",
+                                "RegexNameOrId": "40210",
+                                "NeedTargetable": false,
+                                "DisplayName": "General/敌人读条使用技能"
+                              }
+                            ],
+                            "DisplayName": "等待条件",
+                            "GUID": "52dc52e6-16fd-48d6-bf76-0f3ed54386c6",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 429,
+                            "Enable": true,
+                            "Remark": "神圣射线"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
+                            "TriggerActions": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionHighPrioritySlot, AEAssist",
+                                "SpellConfig": {
+                                  "Remark": "",
+                                  "Category": 0,
+                                  "SpellId": 7533,
+                                  "CoolDowncheck": true,
+                                  "CoolDowncheck_time": 0.0,
+                                  "TargetType": 0,
+                                  "IsPartyMember": true,
+                                  "LimitJobType": 0,
+                                  "LimitBuffIds": [],
+                                  "LimitMaxHpType": 0,
+                                  "LimitHpType": 0,
+                                  "Location": {
+                                    "X": 0.0,
+                                    "Y": 0.0,
+                                    "Z": 0.0
+                                  },
+                                  "TargetSelector": {
+                                    "Enable": false,
+                                    "Target": 0,
+                                    "FilterDatas": [],
+                                    "NeedTargetable": false,
+                                    "SndFilter": 0,
+                                    "PMIndex": 0
+                                  },
+                                  "AutoCheckActionChange": true
+                                },
+                                "Clear": false,
+                                "DisplayName": "技能使用/插入高优先级技能",
+                                "Remark": null
+                              }
+                            ],
+                            "DisplayName": "行为",
+                            "GUID": "8f719a06-f648-4557-b256-cd0d2bdbd065",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 430,
                             "Enable": true,
                             "Remark": "挑衅"
                           }
@@ -12422,7 +12478,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 420,
+                        "Id": 423,
                         "Enable": true,
                         "Remark": "P2"
                       },
@@ -12440,7 +12496,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40266",
                                 "NeedTargetable": false,
@@ -12456,7 +12511,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 427,
+                            "Id": 432,
                             "Enable": true,
                             "Remark": "时间压缩绝"
                           },
@@ -12506,7 +12561,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 428,
+                            "Id": 433,
                             "Enable": true,
                             "Remark": "挑衅"
                           }
@@ -12519,7 +12574,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 426,
+                        "Id": 431,
                         "Enable": true,
                         "Remark": "P3"
                       },
@@ -12537,7 +12592,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40237",
                                 "NeedTargetable": false,
@@ -12553,167 +12607,9 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 430,
-                            "Enable": true,
-                            "Remark": "天光轮回"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
-                            "TriggerActions": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionHighPrioritySlot, AEAssist",
-                                "SpellConfig": {
-                                  "Remark": "",
-                                  "Category": 0,
-                                  "SpellId": 7533,
-                                  "CoolDowncheck": true,
-                                  "CoolDowncheck_time": 0.0,
-                                  "TargetType": 0,
-                                  "IsPartyMember": true,
-                                  "LimitJobType": 0,
-                                  "LimitBuffIds": [],
-                                  "LimitMaxHpType": 0,
-                                  "LimitHpType": 0,
-                                  "Location": {
-                                    "X": 0.0,
-                                    "Y": 0.0,
-                                    "Z": 0.0
-                                  },
-                                  "TargetSelector": {
-                                    "Enable": false,
-                                    "Target": 0,
-                                    "FilterDatas": [],
-                                    "NeedTargetable": false,
-                                    "SndFilter": 0,
-                                    "PMIndex": 0
-                                  },
-                                  "AutoCheckActionChange": true
-                                },
-                                "Clear": false,
-                                "DisplayName": "技能使用/插入高优先级技能",
-                                "Remark": null
-                              }
-                            ],
-                            "DisplayName": "行为",
-                            "GUID": "05dd372c-2596-48a8-943e-8da4ff6b62b6",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 431,
-                            "Enable": true,
-                            "Remark": "挑衅"
-                          }
-                        ],
-                        "GUID": "d7b21509-3373-4a21-bc9d-d9c890830c03",
-                        "Important": false,
-                        "Color": {
-                          "X": 1.0,
-                          "Y": 1.0,
-                          "Z": 0.4,
-                          "W": 1.0
-                        },
-                        "Id": 429,
-                        "Enable": true,
-                        "Remark": "P4"
-                      },
-                      {
-                        "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeSequence, AEAssist",
-                        "DisplayName": "序列",
-                        "IgnoreNodeResult": false,
-                        "StopWhenDead": false,
-                        "Childs": [
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
-                            "CondLogicType": 0,
-                            "CheckOnce": false,
-                            "ReverseResult": false,
-                            "TriggerConds": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondOnWeatherIdChanged, AEAssist",
-                                "Remark": "",
-                                "DisplayName": "General/天气变化",
-                                "WeatherId": 9
-                              }
-                            ],
-                            "DisplayName": "等待条件",
-                            "GUID": "977138cf-907e-4b35-bd52-9b2cf1e0fcfc",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 433,
-                            "Enable": true,
-                            "Remark": "P5天气"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
-                            "CondLogicType": 0,
-                            "CheckOnce": false,
-                            "ReverseResult": false,
-                            "TriggerConds": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondWaitTarget, AEAssist",
-                                "TargetSelector": {
-                                  "Enable": true,
-                                  "Target": 4,
-                                  "FilterDatas": [
-                                    {
-                                      "Filter": 1,
-                                      "Remark": "",
-                                      "StrParam1": "",
-                                      "UintParam1": 17839,
-                                      "FloatParam1": 0.0,
-                                      "LeftTime": 0,
-                                      "JobsCategory": 0,
-                                      "CompareType": 5,
-                                      "BuffCompareType": 3,
-                                      "Marker": 0,
-                                      "Nearest": false
-                                    }
-                                  ],
-                                  "NeedTargetable": true,
-                                  "SndFilter": 1,
-                                  "PMIndex": 0
-                                },
-                                "Remark": null,
-                                "DisplayName": "General/目标符合条件"
-                              }
-                            ],
-                            "DisplayName": "等待条件",
-                            "GUID": "b50f0508-6707-46e4-a062-b52c51c3ee62",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 434,
-                            "Enable": true,
-                            "Remark": "潘多拉可选中"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
-                            "DisplayName": "延迟[1.00]秒",
-                            "Delay": 1.0,
-                            "GUID": "e35bd8c3-4b1c-4f1f-896d-fd0d99300e71",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
                             "Id": 435,
                             "Enable": true,
-                            "Remark": ""
+                            "Remark": "天光轮回"
                           },
                           {
                             "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
@@ -12766,6 +12662,164 @@
                             "Remark": "挑衅"
                           }
                         ],
+                        "GUID": "d7b21509-3373-4a21-bc9d-d9c890830c03",
+                        "Important": false,
+                        "Color": {
+                          "X": 1.0,
+                          "Y": 1.0,
+                          "Z": 0.4,
+                          "W": 1.0
+                        },
+                        "Id": 434,
+                        "Enable": true,
+                        "Remark": "P4"
+                      },
+                      {
+                        "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeSequence, AEAssist",
+                        "DisplayName": "序列",
+                        "IgnoreNodeResult": false,
+                        "StopWhenDead": false,
+                        "Childs": [
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                            "CondLogicType": 0,
+                            "CheckOnce": false,
+                            "ReverseResult": false,
+                            "TriggerConds": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondOnWeatherIdChanged, AEAssist",
+                                "Remark": "",
+                                "DisplayName": "General/天气变化",
+                                "WeatherId": 9
+                              }
+                            ],
+                            "DisplayName": "等待条件",
+                            "GUID": "977138cf-907e-4b35-bd52-9b2cf1e0fcfc",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 438,
+                            "Enable": true,
+                            "Remark": "P5天气"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                            "CondLogicType": 0,
+                            "CheckOnce": false,
+                            "ReverseResult": false,
+                            "TriggerConds": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondWaitTarget, AEAssist",
+                                "TargetSelector": {
+                                  "Enable": true,
+                                  "Target": 4,
+                                  "FilterDatas": [
+                                    {
+                                      "Filter": 1,
+                                      "Remark": "",
+                                      "StrParam1": "",
+                                      "UintParam1": 17839,
+                                      "FloatParam1": 0.0,
+                                      "LeftTime": 0,
+                                      "JobsCategory": 0,
+                                      "CompareType": 5,
+                                      "BuffCompareType": 3,
+                                      "Marker": 0,
+                                      "Nearest": false
+                                    }
+                                  ],
+                                  "NeedTargetable": true,
+                                  "SndFilter": 1,
+                                  "PMIndex": 0
+                                },
+                                "Remark": null,
+                                "DisplayName": "General/目标符合条件"
+                              }
+                            ],
+                            "DisplayName": "等待条件",
+                            "GUID": "b50f0508-6707-46e4-a062-b52c51c3ee62",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 439,
+                            "Enable": true,
+                            "Remark": "潘多拉可选中"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
+                            "DisplayName": "延迟[1.00]秒",
+                            "Delay": 1.0,
+                            "GUID": "e35bd8c3-4b1c-4f1f-896d-fd0d99300e71",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 440,
+                            "Enable": true,
+                            "Remark": ""
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
+                            "TriggerActions": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionHighPrioritySlot, AEAssist",
+                                "SpellConfig": {
+                                  "Remark": "",
+                                  "Category": 0,
+                                  "SpellId": 7533,
+                                  "CoolDowncheck": true,
+                                  "CoolDowncheck_time": 0.0,
+                                  "TargetType": 0,
+                                  "IsPartyMember": true,
+                                  "LimitJobType": 0,
+                                  "LimitBuffIds": [],
+                                  "LimitMaxHpType": 0,
+                                  "LimitHpType": 0,
+                                  "Location": {
+                                    "X": 0.0,
+                                    "Y": 0.0,
+                                    "Z": 0.0
+                                  },
+                                  "TargetSelector": {
+                                    "Enable": false,
+                                    "Target": 0,
+                                    "FilterDatas": [],
+                                    "NeedTargetable": false,
+                                    "SndFilter": 0,
+                                    "PMIndex": 0
+                                  },
+                                  "AutoCheckActionChange": true
+                                },
+                                "Clear": false,
+                                "DisplayName": "技能使用/插入高优先级技能",
+                                "Remark": null
+                              }
+                            ],
+                            "DisplayName": "行为",
+                            "GUID": "05dd372c-2596-48a8-943e-8da4ff6b62b6",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 441,
+                            "Enable": true,
+                            "Remark": "挑衅"
+                          }
+                        ],
                         "GUID": "e2e5fe5d-2535-4201-9c15-3fe870585ced",
                         "Important": false,
                         "Color": {
@@ -12774,7 +12828,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 432,
+                        "Id": 437,
                         "Enable": true,
                         "Remark": "P5"
                       },
@@ -12792,7 +12846,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40319",
                                 "NeedTargetable": false,
@@ -12808,7 +12861,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 438,
+                            "Id": 443,
                             "Enable": true,
                             "Remark": "第一次复乐园（死刑前刷新塔）"
                           },
@@ -12820,7 +12873,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40233",
                                 "NeedTargetable": false,
@@ -12828,7 +12880,6 @@
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40313",
                                 "NeedTargetable": false,
@@ -12844,7 +12895,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 439,
+                            "Id": 444,
                             "Enable": true,
                             "Remark": "光暗之翼"
                           },
@@ -12894,7 +12945,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 440,
+                            "Id": 445,
                             "Enable": true,
                             "Remark": "关盾"
                           },
@@ -12910,7 +12961,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 441,
+                            "Id": 446,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -12960,7 +13011,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 442,
+                            "Id": 447,
                             "Enable": true,
                             "Remark": "开盾"
                           },
@@ -12972,7 +13023,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40316",
                                 "NeedTargetable": false,
@@ -12988,7 +13038,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 443,
+                            "Id": 448,
                             "Enable": true,
                             "Remark": "星灵之剑"
                           },
@@ -13038,7 +13088,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 444,
+                            "Id": 449,
                             "Enable": true,
                             "Remark": "挑衅"
                           },
@@ -13050,7 +13100,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40319",
                                 "NeedTargetable": false,
@@ -13066,7 +13115,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 445,
+                            "Id": 450,
                             "Enable": true,
                             "Remark": "第二次复乐园（死刑前刷新塔）"
                           },
@@ -13078,7 +13127,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40233",
                                 "NeedTargetable": false,
@@ -13086,7 +13134,6 @@
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40313",
                                 "NeedTargetable": false,
@@ -13102,7 +13149,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 446,
+                            "Id": 451,
                             "Enable": true,
                             "Remark": "光暗之翼"
                           },
@@ -13152,7 +13199,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 447,
+                            "Id": 452,
                             "Enable": true,
                             "Remark": "关盾"
                           },
@@ -13168,7 +13215,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 448,
+                            "Id": 453,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -13218,7 +13265,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 449,
+                            "Id": 454,
                             "Enable": true,
                             "Remark": "开盾"
                           },
@@ -13230,7 +13277,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40316",
                                 "NeedTargetable": false,
@@ -13246,7 +13292,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 450,
+                            "Id": 455,
                             "Enable": true,
                             "Remark": "星灵之剑"
                           },
@@ -13296,7 +13342,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 451,
+                            "Id": 456,
                             "Enable": true,
                             "Remark": "挑衅"
                           }
@@ -13309,7 +13355,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 437,
+                        "Id": 442,
                         "Enable": true,
                         "Remark": "P5死刑"
                       }
@@ -13381,7 +13427,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 454,
+                            "Id": 459,
                             "Enable": true,
                             "Remark": "浮游拘束"
                           },
@@ -13428,7 +13474,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 455,
+                            "Id": 460,
                             "Enable": true,
                             "Remark": "绝命战士可选中"
                           },
@@ -13473,7 +13519,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 456,
+                            "Id": 461,
                             "Enable": true,
                             "Remark": "选中绝命战士"
                           }
@@ -13486,7 +13532,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 453,
+                        "Id": 458,
                         "Enable": true,
                         "Remark": "P1"
                       },
@@ -13518,7 +13564,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 458,
+                            "Id": 463,
                             "Enable": true,
                             "Remark": "p2天气"
                           },
@@ -13565,7 +13611,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 459,
+                            "Id": 464,
                             "Enable": true,
                             "Remark": "希瓦可选中"
                           },
@@ -13610,7 +13656,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 460,
+                            "Id": 465,
                             "Enable": true,
                             "Remark": "选中希瓦"
                           },
@@ -13622,7 +13668,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40197",
                                 "NeedTargetable": false,
@@ -13638,7 +13683,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 461,
+                            "Id": 466,
                             "Enable": true,
                             "Remark": "钻石星辰"
                           },
@@ -13647,191 +13692,6 @@
                             "DisplayName": "延迟[10.00]秒",
                             "Delay": 10.0,
                             "GUID": "a9386ded-7417-42e3-b77b-8f1add68292f",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 462,
-                            "Enable": true,
-                            "Remark": ""
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
-                            "CondLogicType": 0,
-                            "CheckOnce": false,
-                            "ReverseResult": false,
-                            "TriggerConds": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondWaitTarget, AEAssist",
-                                "TargetSelector": {
-                                  "Enable": true,
-                                  "Target": 4,
-                                  "FilterDatas": [
-                                    {
-                                      "Filter": 1,
-                                      "Remark": "",
-                                      "StrParam1": "",
-                                      "UintParam1": 17823,
-                                      "FloatParam1": 0.0,
-                                      "LeftTime": 0,
-                                      "JobsCategory": 0,
-                                      "CompareType": 5,
-                                      "BuffCompareType": 3,
-                                      "Marker": 0,
-                                      "Nearest": false
-                                    }
-                                  ],
-                                  "NeedTargetable": true,
-                                  "SndFilter": 1,
-                                  "PMIndex": 0
-                                },
-                                "Remark": null,
-                                "DisplayName": "General/目标符合条件"
-                              }
-                            ],
-                            "DisplayName": "等待条件",
-                            "GUID": "b50f0508-6707-46e4-a062-b52c51c3ee62",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 463,
-                            "Enable": true,
-                            "Remark": "希瓦可选中"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
-                            "TriggerActions": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionSelectenemy, AEAssist",
-                                "NameorId": "17827",
-                                "TargetSelector": {
-                                  "Enable": true,
-                                  "Target": 4,
-                                  "FilterDatas": [
-                                    {
-                                      "Filter": 1,
-                                      "Remark": "",
-                                      "StrParam1": "",
-                                      "UintParam1": 17823,
-                                      "FloatParam1": 0.0,
-                                      "LeftTime": 0,
-                                      "JobsCategory": 0,
-                                      "CompareType": 5,
-                                      "BuffCompareType": 3,
-                                      "Marker": 0,
-                                      "Nearest": false
-                                    }
-                                  ],
-                                  "NeedTargetable": true,
-                                  "SndFilter": 1,
-                                  "PMIndex": 0
-                                },
-                                "Remark": "",
-                                "DisplayName": "General/切换目标"
-                              }
-                            ],
-                            "DisplayName": "行为",
-                            "GUID": "fe34b6aa-8777-407f-a0ca-83dc68c73d5a",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 464,
-                            "Enable": true,
-                            "Remark": "选中希瓦"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
-                            "TriggerActions": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionCastSpell, AEAssist",
-                                "Remark": null,
-                                "SpellConfig": {
-                                  "Remark": "",
-                                  "Category": 0,
-                                  "SpellId": 36926,
-                                  "CoolDowncheck": false,
-                                  "CoolDowncheck_time": 0.0,
-                                  "TargetType": 0,
-                                  "IsPartyMember": true,
-                                  "LimitJobType": 0,
-                                  "LimitBuffIds": [],
-                                  "LimitMaxHpType": 0,
-                                  "LimitHpType": 0,
-                                  "Location": {
-                                    "X": 0.0,
-                                    "Y": 0.0,
-                                    "Z": 0.0
-                                  },
-                                  "TargetSelector": {
-                                    "Enable": false,
-                                    "Target": 0,
-                                    "FilterDatas": [],
-                                    "NeedTargetable": false,
-                                    "SndFilter": 0,
-                                    "PMIndex": 0
-                                  },
-                                  "AutoCheckActionChange": true
-                                },
-                                "DisplayName": "技能使用/强制使用技能"
-                              }
-                            ],
-                            "DisplayName": "行为",
-                            "GUID": "031e4068-7e6a-4c3d-a5c5-6696e884cc90",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 465,
-                            "Enable": true,
-                            "Remark": "暗影步"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
-                            "CondLogicType": 0,
-                            "CheckOnce": false,
-                            "ReverseResult": false,
-                            "TriggerConds": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
-                                "Remark": "",
-                                "RegexNameOrId": "40212",
-                                "NeedTargetable": false,
-                                "DisplayName": "General/敌人读条使用技能"
-                              }
-                            ],
-                            "DisplayName": "等待条件",
-                            "GUID": "45d4491f-e58f-4027-8517-9f90fea416b2",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 466,
-                            "Enable": true,
-                            "Remark": "光暴"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
-                            "DisplayName": "延迟[10.00]秒",
-                            "Delay": 10.0,
-                            "GUID": "1ed6c1a7-00c8-49b8-9595-dce9430a3cb9",
                             "Important": false,
                             "Color": {
                               "X": 1.0,
@@ -13936,6 +13796,190 @@
                             "Remark": "选中希瓦"
                           },
                           {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
+                            "TriggerActions": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionCastSpell, AEAssist",
+                                "Remark": null,
+                                "SpellConfig": {
+                                  "Remark": "",
+                                  "Category": 0,
+                                  "SpellId": 36926,
+                                  "CoolDowncheck": false,
+                                  "CoolDowncheck_time": 0.0,
+                                  "TargetType": 0,
+                                  "IsPartyMember": true,
+                                  "LimitJobType": 0,
+                                  "LimitBuffIds": [],
+                                  "LimitMaxHpType": 0,
+                                  "LimitHpType": 0,
+                                  "Location": {
+                                    "X": 0.0,
+                                    "Y": 0.0,
+                                    "Z": 0.0
+                                  },
+                                  "TargetSelector": {
+                                    "Enable": false,
+                                    "Target": 0,
+                                    "FilterDatas": [],
+                                    "NeedTargetable": false,
+                                    "SndFilter": 0,
+                                    "PMIndex": 0
+                                  },
+                                  "AutoCheckActionChange": true
+                                },
+                                "DisplayName": "技能使用/强制使用技能"
+                              }
+                            ],
+                            "DisplayName": "行为",
+                            "GUID": "031e4068-7e6a-4c3d-a5c5-6696e884cc90",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 470,
+                            "Enable": true,
+                            "Remark": "暗影步"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                            "CondLogicType": 0,
+                            "CheckOnce": false,
+                            "ReverseResult": false,
+                            "TriggerConds": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
+                                "Remark": "",
+                                "RegexNameOrId": "40212",
+                                "NeedTargetable": false,
+                                "DisplayName": "General/敌人读条使用技能"
+                              }
+                            ],
+                            "DisplayName": "等待条件",
+                            "GUID": "45d4491f-e58f-4027-8517-9f90fea416b2",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 471,
+                            "Enable": true,
+                            "Remark": "光暴"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
+                            "DisplayName": "延迟[10.00]秒",
+                            "Delay": 10.0,
+                            "GUID": "1ed6c1a7-00c8-49b8-9595-dce9430a3cb9",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 472,
+                            "Enable": true,
+                            "Remark": ""
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                            "CondLogicType": 0,
+                            "CheckOnce": false,
+                            "ReverseResult": false,
+                            "TriggerConds": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondWaitTarget, AEAssist",
+                                "TargetSelector": {
+                                  "Enable": true,
+                                  "Target": 4,
+                                  "FilterDatas": [
+                                    {
+                                      "Filter": 1,
+                                      "Remark": "",
+                                      "StrParam1": "",
+                                      "UintParam1": 17823,
+                                      "FloatParam1": 0.0,
+                                      "LeftTime": 0,
+                                      "JobsCategory": 0,
+                                      "CompareType": 5,
+                                      "BuffCompareType": 3,
+                                      "Marker": 0,
+                                      "Nearest": false
+                                    }
+                                  ],
+                                  "NeedTargetable": true,
+                                  "SndFilter": 1,
+                                  "PMIndex": 0
+                                },
+                                "Remark": null,
+                                "DisplayName": "General/目标符合条件"
+                              }
+                            ],
+                            "DisplayName": "等待条件",
+                            "GUID": "b50f0508-6707-46e4-a062-b52c51c3ee62",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 473,
+                            "Enable": true,
+                            "Remark": "希瓦可选中"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
+                            "TriggerActions": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionSelectenemy, AEAssist",
+                                "NameorId": "17827",
+                                "TargetSelector": {
+                                  "Enable": true,
+                                  "Target": 4,
+                                  "FilterDatas": [
+                                    {
+                                      "Filter": 1,
+                                      "Remark": "",
+                                      "StrParam1": "",
+                                      "UintParam1": 17823,
+                                      "FloatParam1": 0.0,
+                                      "LeftTime": 0,
+                                      "JobsCategory": 0,
+                                      "CompareType": 5,
+                                      "BuffCompareType": 3,
+                                      "Marker": 0,
+                                      "Nearest": false
+                                    }
+                                  ],
+                                  "NeedTargetable": true,
+                                  "SndFilter": 1,
+                                  "PMIndex": 0
+                                },
+                                "Remark": "",
+                                "DisplayName": "General/切换目标"
+                              }
+                            ],
+                            "DisplayName": "行为",
+                            "GUID": "fe34b6aa-8777-407f-a0ca-83dc68c73d5a",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 474,
+                            "Enable": true,
+                            "Remark": "选中希瓦"
+                          },
+                          {
                             "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
                             "CondLogicType": 0,
                             "CheckOnce": false,
@@ -13978,7 +14022,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 470,
+                            "Id": 475,
                             "Enable": true,
                             "Remark": "光水晶可选中"
                           },
@@ -13994,7 +14038,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 471,
+                            "Id": 476,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14039,7 +14083,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 472,
+                            "Id": 477,
                             "Enable": true,
                             "Remark": "选中最近的光水晶"
                           },
@@ -14105,7 +14149,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 474,
+                                "Id": 479,
                                 "Enable": true,
                                 "Remark": "永久水晶无敌"
                               },
@@ -14121,7 +14165,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 475,
+                                "Id": 480,
                                 "Enable": true,
                                 "Remark": ""
                               },
@@ -14181,7 +14225,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 476,
+                                "Id": 481,
                                 "Enable": true,
                                 "Remark": "永久水晶无敌消失"
                               },
@@ -14226,7 +14270,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 477,
+                                "Id": 482,
                                 "Enable": true,
                                 "Remark": "选中永久水晶"
                               }
@@ -14239,7 +14283,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 473,
+                            "Id": 478,
                             "Enable": true,
                             "Remark": "永久水晶"
                           }
@@ -14252,7 +14296,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 457,
+                        "Id": 462,
                         "Enable": true,
                         "Remark": "P2"
                       },
@@ -14284,7 +14328,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 479,
+                            "Id": 484,
                             "Enable": true,
                             "Remark": "P3天气"
                           },
@@ -14331,7 +14375,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 480,
+                            "Id": 485,
                             "Enable": true,
                             "Remark": "盖娅可选中"
                           },
@@ -14376,7 +14420,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 481,
+                            "Id": 486,
                             "Enable": true,
                             "Remark": "选中盖亚"
                           }
@@ -14389,7 +14433,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 478,
+                        "Id": 483,
                         "Enable": true,
                         "Remark": "P3"
                       },
@@ -14407,7 +14451,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40300",
                                 "NeedTargetable": false,
@@ -14423,7 +14466,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 483,
+                            "Id": 488,
                             "Enable": true,
                             "Remark": "记忆终结"
                           },
@@ -14439,7 +14482,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 484,
+                            "Id": 489,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14486,7 +14529,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 485,
+                            "Id": 490,
                             "Enable": true,
                             "Remark": "琳可选中"
                           },
@@ -14531,7 +14574,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 486,
+                            "Id": 491,
                             "Enable": true,
                             "Remark": "选中琳"
                           },
@@ -14543,7 +14586,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40246",
                                 "NeedTargetable": false,
@@ -14559,7 +14601,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 487,
+                            "Id": 492,
                             "Enable": true,
                             "Remark": "读条具象化"
                           },
@@ -14606,7 +14648,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 488,
+                            "Id": 493,
                             "Enable": true,
                             "Remark": "盖娅可选中"
                           },
@@ -14622,7 +14664,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 489,
+                            "Id": 494,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14667,7 +14709,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 490,
+                            "Id": 495,
                             "Enable": true,
                             "Remark": "选中盖亚"
                           },
@@ -14683,7 +14725,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 491,
+                            "Id": 496,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14728,7 +14770,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 492,
+                            "Id": 497,
                             "Enable": true,
                             "Remark": "选中琳"
                           },
@@ -14740,7 +14782,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40283",
                                 "NeedTargetable": false,
@@ -14756,7 +14797,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 493,
+                            "Id": 498,
                             "Enable": true,
                             "Remark": "真夜舞蹈"
                           },
@@ -14772,7 +14813,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 494,
+                            "Id": 499,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14817,7 +14858,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 495,
+                            "Id": 500,
                             "Enable": true,
                             "Remark": "选中盖亚"
                           },
@@ -14829,7 +14870,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40302",
                                 "NeedTargetable": false,
@@ -14837,7 +14877,6 @@
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40247",
                                 "NeedTargetable": false,
@@ -14853,7 +14892,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 496,
+                            "Id": 501,
                             "Enable": true,
                             "Remark": "死亡轮回"
                           },
@@ -14869,7 +14908,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 497,
+                            "Id": 502,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14914,7 +14953,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 498,
+                            "Id": 503,
                             "Enable": true,
                             "Remark": "选中琳"
                           }
@@ -14927,7 +14966,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 482,
+                        "Id": 487,
                         "Enable": true,
                         "Remark": "P4一运"
                       },
@@ -14945,7 +14984,6 @@
                             "TriggerConds": [
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40298",
                                 "NeedTargetable": false,
@@ -14953,7 +14991,6 @@
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Strs": null,
                                 "Remark": "",
                                 "RegexNameOrId": "40240",
                                 "NeedTargetable": false,
@@ -14969,7 +15006,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 500,
+                            "Id": 505,
                             "Enable": true,
                             "Remark": "时间结晶"
                           },
@@ -14985,7 +15022,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 501,
+                            "Id": 506,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -15032,7 +15069,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 502,
+                            "Id": 507,
                             "Enable": true,
                             "Remark": "琳可选中"
                           },
@@ -15048,7 +15085,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 503,
+                            "Id": 508,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -15093,7 +15130,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 504,
+                            "Id": 509,
                             "Enable": true,
                             "Remark": "选中琳"
                           }
@@ -15106,7 +15143,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 499,
+                        "Id": 504,
                         "Enable": true,
                         "Remark": "P4二运"
                       },
@@ -15138,7 +15175,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 506,
+                            "Id": 511,
                             "Enable": true,
                             "Remark": "P5天气"
                           },
@@ -15185,7 +15222,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 507,
+                            "Id": 512,
                             "Enable": true,
                             "Remark": "潘多拉可选中"
                           },
@@ -15230,7 +15267,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 508,
+                            "Id": 513,
                             "Enable": true,
                             "Remark": "选中潘多拉"
                           }
@@ -15243,7 +15280,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 505,
+                        "Id": 510,
                         "Enable": true,
                         "Remark": "P5"
                       }
@@ -15256,7 +15293,7 @@
                       "Z": 0.4,
                       "W": 1.0
                     },
-                    "Id": 452,
+                    "Id": 457,
                     "Enable": true,
                     "Remark": "自动目标选择"
                   },
@@ -15288,7 +15325,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 510,
+                        "Id": 515,
                         "Enable": true,
                         "Remark": "重斩"
                       },
@@ -15305,7 +15342,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 511,
+                        "Id": 516,
                         "Enable": true,
                         "Remark": "勾选自动拉怪"
                       },
@@ -15329,7 +15366,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 512,
+                        "Id": 517,
                         "Enable": true,
                         "Remark": "后拉BOSS"
                       },
@@ -15358,7 +15395,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 513,
+                        "Id": 518,
                         "Enable": true,
                         "Remark": "自己到位"
                       },
@@ -15387,7 +15424,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 514,
+                        "Id": 519,
                         "Enable": true,
                         "Remark": "boss到位"
                       },
@@ -15415,7 +15452,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 515,
+                        "Id": 520,
                         "Enable": true,
                         "Remark": "拉正面向"
                       }
@@ -15428,7 +15465,7 @@
                       "Z": 0.4,
                       "W": 1.0
                     },
-                    "Id": 509,
+                    "Id": 514,
                     "Enable": true,
                     "Remark": "开场拉怪"
                   }
@@ -15486,7 +15523,7 @@
                   "Z": 0.4,
                   "W": 1.0
                 },
-                "Id": 517,
+                "Id": 522,
                 "Enable": true,
                 "Remark": ""
               },
@@ -15502,7 +15539,7 @@
                   "Z": 0.4,
                   "W": 1.0
                 },
-                "Id": 518,
+                "Id": 523,
                 "Enable": true,
                 "Remark": ""
               }
@@ -15515,7 +15552,7 @@
               "Z": 0.4,
               "W": 1.0
             },
-            "Id": 516,
+            "Id": 521,
             "Enable": true,
             "Remark": "选择ST"
           }
