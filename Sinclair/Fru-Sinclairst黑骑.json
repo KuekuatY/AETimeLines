@@ -619,7 +619,7 @@
                                         "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondWaitTarget, AEAssist",
                                         "TargetSelector": {
                                           "Enable": true,
-                                          "Target": 1,
+                                          "Target": 0,
                                           "FilterDatas": [
                                             {
                                               "Filter": 4,
