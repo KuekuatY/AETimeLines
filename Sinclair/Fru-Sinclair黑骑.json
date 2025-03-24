@@ -14449,102 +14449,6 @@
                             "ReverseResult": false,
                             "TriggerConds": [
                               {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
-                                "Remark": "",
-                                "RegexNameOrId": "40266",
-                                "NeedTargetable": false,
-                                "DisplayName": "General/敌人读条使用技能"
-                              }
-                            ],
-                            "DisplayName": "等待条件",
-                            "GUID": "5931d176-12fb-4bf1-a75c-9a1deac7f2ec",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 505,
-                            "Enable": true,
-                            "Remark": "时间压缩绝"
-                          },
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
-                            "TriggerActions": [
-                              {
-                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionHighPrioritySlot, AEAssist",
-                                "SpellConfig": {
-                                  "Remark": "",
-                                  "Category": 0,
-                                  "SpellId": 7533,
-                                  "CoolDowncheck": true,
-                                  "CoolDowncheck_time": 0.0,
-                                  "TargetType": 0,
-                                  "IsPartyMember": true,
-                                  "LimitJobType": 0,
-                                  "LimitBuffIds": [],
-                                  "LimitMaxHpType": 0,
-                                  "LimitHpType": 0,
-                                  "Location": {
-                                    "X": 0.0,
-                                    "Y": 0.0,
-                                    "Z": 0.0
-                                  },
-                                  "TargetSelector": {
-                                    "Enable": false,
-                                    "Target": 0,
-                                    "FilterDatas": [],
-                                    "NeedTargetable": false,
-                                    "SndFilter": 0,
-                                    "PMIndex": 0
-                                  },
-                                  "AutoCheckActionChange": true
-                                },
-                                "Clear": false,
-                                "DisplayName": "技能使用/插入高优先级技能",
-                                "Remark": null
-                              }
-                            ],
-                            "DisplayName": "行为",
-                            "GUID": "05dd372c-2596-48a8-943e-8da4ff6b62b6",
-                            "Important": false,
-                            "Color": {
-                              "X": 1.0,
-                              "Y": 1.0,
-                              "Z": 0.4,
-                              "W": 1.0
-                            },
-                            "Id": 506,
-                            "Enable": true,
-                            "Remark": "挑衅"
-                          }
-                        ],
-                        "GUID": "deff346a-fdb0-4f06-8dfa-e1e521f7f89d",
-                        "Important": false,
-                        "Color": {
-                          "X": 1.0,
-                          "Y": 1.0,
-                          "Z": 0.4,
-                          "W": 1.0
-                        },
-                        "Id": 504,
-                        "Enable": true,
-                        "Remark": "P3"
-                      },
-                      {
-                        "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeSequence, AEAssist",
-                        "DisplayName": "序列",
-                        "IgnoreNodeResult": false,
-                        "StopWhenDead": false,
-                        "Childs": [
-                          {
-                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
-                            "CondLogicType": 0,
-                            "CheckOnce": false,
-                            "ReverseResult": false,
-                            "TriggerConds": [
-                              {
                                 "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondWaitTarget, AEAssist",
                                 "TargetSelector": {
                                   "Enable": true,
@@ -14581,7 +14485,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 508,
+                            "Id": 505,
                             "Enable": true,
                             "Remark": "琳可选中"
                           },
@@ -14597,7 +14501,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 509,
+                            "Id": 506,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14647,7 +14551,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 510,
+                            "Id": 507,
                             "Enable": true,
                             "Remark": "挑衅"
                           }
@@ -14660,7 +14564,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 507,
+                        "Id": 504,
                         "Enable": true,
                         "Remark": "P4"
                       },
@@ -14692,7 +14596,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 512,
+                            "Id": 509,
                             "Enable": true,
                             "Remark": "P5天气"
                           },
@@ -14739,7 +14643,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 513,
+                            "Id": 510,
                             "Enable": true,
                             "Remark": "潘多拉可选中"
                           },
@@ -14755,7 +14659,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 514,
+                            "Id": 511,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14805,7 +14709,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 515,
+                            "Id": 512,
                             "Enable": true,
                             "Remark": "挑衅"
                           }
@@ -14818,7 +14722,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 511,
+                        "Id": 508,
                         "Enable": true,
                         "Remark": "P5"
                       },
@@ -14851,7 +14755,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 517,
+                            "Id": 514,
                             "Enable": true,
                             "Remark": "第一次复乐园（死刑前刷新塔）"
                           },
@@ -14885,7 +14789,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 518,
+                            "Id": 515,
                             "Enable": true,
                             "Remark": "光暗之翼"
                           },
@@ -14901,7 +14805,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 519,
+                            "Id": 516,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -14951,7 +14855,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 520,
+                            "Id": 517,
                             "Enable": true,
                             "Remark": "关盾"
                           },
@@ -14967,7 +14871,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 521,
+                            "Id": 518,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -15017,7 +14921,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 522,
+                            "Id": 519,
                             "Enable": true,
                             "Remark": "开盾"
                           },
@@ -15044,7 +14948,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 523,
+                            "Id": 520,
                             "Enable": true,
                             "Remark": "星灵之剑"
                           },
@@ -15094,7 +14998,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 524,
+                            "Id": 521,
                             "Enable": true,
                             "Remark": "挑衅"
                           },
@@ -15121,7 +15025,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 525,
+                            "Id": 522,
                             "Enable": true,
                             "Remark": "第二次复乐园（死刑前刷新塔）"
                           },
@@ -15155,7 +15059,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 526,
+                            "Id": 523,
                             "Enable": true,
                             "Remark": "光暗之翼"
                           },
@@ -15171,7 +15075,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 527,
+                            "Id": 524,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -15221,7 +15125,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 528,
+                            "Id": 525,
                             "Enable": true,
                             "Remark": "关盾"
                           },
@@ -15237,7 +15141,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 529,
+                            "Id": 526,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -15287,7 +15191,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 530,
+                            "Id": 527,
                             "Enable": true,
                             "Remark": "开盾"
                           },
@@ -15314,7 +15218,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 531,
+                            "Id": 528,
                             "Enable": true,
                             "Remark": "星灵之剑"
                           },
@@ -15364,7 +15268,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 532,
+                            "Id": 529,
                             "Enable": true,
                             "Remark": "挑衅"
                           }
@@ -15377,7 +15281,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 516,
+                        "Id": 513,
                         "Enable": true,
                         "Remark": "P5死刑"
                       }
@@ -15449,7 +15353,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 535,
+                            "Id": 532,
                             "Enable": true,
                             "Remark": "浮游拘束"
                           },
@@ -15496,7 +15400,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 536,
+                            "Id": 533,
                             "Enable": true,
                             "Remark": "绝命战士可选中"
                           },
@@ -15541,7 +15445,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 537,
+                            "Id": 534,
                             "Enable": true,
                             "Remark": "选中绝命战士"
                           }
@@ -15554,7 +15458,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 534,
+                        "Id": 531,
                         "Enable": true,
                         "Remark": "P1"
                       },
@@ -15586,7 +15490,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 539,
+                            "Id": 536,
                             "Enable": true,
                             "Remark": "p2天气"
                           },
@@ -15633,7 +15537,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 540,
+                            "Id": 537,
                             "Enable": true,
                             "Remark": "希瓦可选中"
                           },
@@ -15678,7 +15582,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 541,
+                            "Id": 538,
                             "Enable": true,
                             "Remark": "选中希瓦"
                           },
@@ -15705,7 +15609,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 542,
+                            "Id": 539,
                             "Enable": true,
                             "Remark": "钻石星辰"
                           },
@@ -15721,7 +15625,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 543,
+                            "Id": 540,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -15768,7 +15672,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 544,
+                            "Id": 541,
                             "Enable": true,
                             "Remark": "希瓦可选中"
                           },
@@ -15813,7 +15717,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 545,
+                            "Id": 542,
                             "Enable": true,
                             "Remark": "选中希瓦"
                           },
@@ -15862,7 +15766,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 546,
+                            "Id": 543,
                             "Enable": true,
                             "Remark": "暗影步"
                           },
@@ -15889,7 +15793,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 547,
+                            "Id": 544,
                             "Enable": true,
                             "Remark": "光暴"
                           },
@@ -15905,7 +15809,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 548,
+                            "Id": 545,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -15952,7 +15856,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 549,
+                            "Id": 546,
                             "Enable": true,
                             "Remark": "希瓦可选中"
                           },
@@ -15997,7 +15901,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 550,
+                            "Id": 547,
                             "Enable": true,
                             "Remark": "选中希瓦"
                           },
@@ -16044,7 +15948,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 551,
+                            "Id": 548,
                             "Enable": true,
                             "Remark": "光水晶可选中"
                           },
@@ -16060,7 +15964,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 552,
+                            "Id": 549,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -16105,7 +16009,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 553,
+                            "Id": 550,
                             "Enable": true,
                             "Remark": "选中最近的光水晶"
                           },
@@ -16171,7 +16075,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 555,
+                                "Id": 552,
                                 "Enable": true,
                                 "Remark": "永久水晶无敌"
                               },
@@ -16187,7 +16091,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 556,
+                                "Id": 553,
                                 "Enable": true,
                                 "Remark": ""
                               },
@@ -16247,7 +16151,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 557,
+                                "Id": 554,
                                 "Enable": true,
                                 "Remark": "永久水晶无敌消失"
                               },
@@ -16292,7 +16196,7 @@
                                   "Z": 0.4,
                                   "W": 1.0
                                 },
-                                "Id": 558,
+                                "Id": 555,
                                 "Enable": true,
                                 "Remark": "选中永久水晶"
                               }
@@ -16305,7 +16209,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 554,
+                            "Id": 551,
                             "Enable": true,
                             "Remark": "永久水晶"
                           }
@@ -16318,7 +16222,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 538,
+                        "Id": 535,
                         "Enable": true,
                         "Remark": "P2"
                       },
@@ -16350,7 +16254,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 560,
+                            "Id": 557,
                             "Enable": true,
                             "Remark": "P3天气"
                           },
@@ -16397,7 +16301,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 561,
+                            "Id": 558,
                             "Enable": true,
                             "Remark": "盖娅可选中"
                           },
@@ -16442,7 +16346,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 562,
+                            "Id": 559,
                             "Enable": true,
                             "Remark": "选中盖亚"
                           }
@@ -16455,7 +16359,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 559,
+                        "Id": 556,
                         "Enable": true,
                         "Remark": "P3"
                       },
@@ -16488,7 +16392,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 564,
+                            "Id": 561,
                             "Enable": true,
                             "Remark": "记忆终结"
                           },
@@ -16504,7 +16408,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 565,
+                            "Id": 562,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -16551,7 +16455,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 566,
+                            "Id": 563,
                             "Enable": true,
                             "Remark": "琳可选中"
                           },
@@ -16596,7 +16500,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 567,
+                            "Id": 564,
                             "Enable": true,
                             "Remark": "选中琳"
                           },
@@ -16623,7 +16527,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 568,
+                            "Id": 565,
                             "Enable": true,
                             "Remark": "读条具象化"
                           },
@@ -16670,7 +16574,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 569,
+                            "Id": 566,
                             "Enable": true,
                             "Remark": "盖娅可选中"
                           },
@@ -16686,7 +16590,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 570,
+                            "Id": 567,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -16731,7 +16635,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 571,
+                            "Id": 568,
                             "Enable": true,
                             "Remark": "选中盖亚"
                           },
@@ -16747,7 +16651,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 572,
+                            "Id": 569,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -16792,7 +16696,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 573,
+                            "Id": 570,
                             "Enable": true,
                             "Remark": "选中琳"
                           },
@@ -16819,7 +16723,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 574,
+                            "Id": 571,
                             "Enable": true,
                             "Remark": "真夜舞蹈"
                           },
@@ -16835,7 +16739,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 575,
+                            "Id": 572,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -16880,7 +16784,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 576,
+                            "Id": 573,
                             "Enable": true,
                             "Remark": "选中盖亚"
                           },
@@ -16914,7 +16818,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 577,
+                            "Id": 574,
                             "Enable": true,
                             "Remark": "死亡轮回"
                           },
@@ -16930,7 +16834,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 578,
+                            "Id": 575,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -16975,7 +16879,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 579,
+                            "Id": 576,
                             "Enable": true,
                             "Remark": "选中琳"
                           }
@@ -16988,7 +16892,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 563,
+                        "Id": 560,
                         "Enable": true,
                         "Remark": "P4一运"
                       },
@@ -17028,7 +16932,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 581,
+                            "Id": 578,
                             "Enable": true,
                             "Remark": "时间结晶"
                           },
@@ -17044,7 +16948,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 582,
+                            "Id": 579,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -17091,7 +16995,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 583,
+                            "Id": 580,
                             "Enable": true,
                             "Remark": "琳可选中"
                           },
@@ -17107,7 +17011,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 584,
+                            "Id": 581,
                             "Enable": true,
                             "Remark": ""
                           },
@@ -17152,7 +17056,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 585,
+                            "Id": 582,
                             "Enable": true,
                             "Remark": "选中琳"
                           }
@@ -17165,7 +17069,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 580,
+                        "Id": 577,
                         "Enable": true,
                         "Remark": "P4二运"
                       },
@@ -17197,7 +17101,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 587,
+                            "Id": 584,
                             "Enable": true,
                             "Remark": "P5天气"
                           },
@@ -17244,7 +17148,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 588,
+                            "Id": 585,
                             "Enable": true,
                             "Remark": "潘多拉可选中"
                           },
@@ -17289,7 +17193,7 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 589,
+                            "Id": 586,
                             "Enable": true,
                             "Remark": "选中潘多拉"
                           }
@@ -17302,7 +17206,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 586,
+                        "Id": 583,
                         "Enable": true,
                         "Remark": "P5"
                       }
@@ -17315,7 +17219,7 @@
                       "Z": 0.4,
                       "W": 1.0
                     },
-                    "Id": 533,
+                    "Id": 530,
                     "Enable": true,
                     "Remark": "自动目标选择"
                   },
@@ -17347,7 +17251,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 591,
+                        "Id": 588,
                         "Enable": true,
                         "Remark": "重斩"
                       },
@@ -17364,7 +17268,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 592,
+                        "Id": 589,
                         "Enable": true,
                         "Remark": "勾选自动拉怪"
                       },
@@ -17388,7 +17292,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 593,
+                        "Id": 590,
                         "Enable": true,
                         "Remark": "后拉BOSS"
                       },
@@ -17417,7 +17321,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 594,
+                        "Id": 591,
                         "Enable": true,
                         "Remark": "自己到位"
                       },
@@ -17446,7 +17350,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 595,
+                        "Id": 592,
                         "Enable": true,
                         "Remark": "boss到位"
                       },
@@ -17474,7 +17378,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 596,
+                        "Id": 593,
                         "Enable": true,
                         "Remark": "拉正面向"
                       }
@@ -17487,7 +17391,7 @@
                       "Z": 0.4,
                       "W": 1.0
                     },
-                    "Id": 590,
+                    "Id": 587,
                     "Enable": true,
                     "Remark": "开场拉怪"
                   },
@@ -17516,9 +17420,86 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 599,
+                            "Id": 596,
                             "Enable": true,
                             "Remark": "没选择引导死刑"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                            "CondLogicType": 0,
+                            "CheckOnce": false,
+                            "ReverseResult": false,
+                            "TriggerConds": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerCond.TriggerCondEnemyCastSpell, AEAssist",
+                                "Remark": "",
+                                "RegexNameOrId": "40266",
+                                "NeedTargetable": false,
+                                "DisplayName": "General/敌人读条使用技能"
+                              }
+                            ],
+                            "DisplayName": "等待条件",
+                            "GUID": "5931d176-12fb-4bf1-a75c-9a1deac7f2ec",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 597,
+                            "Enable": true,
+                            "Remark": "时间压缩绝"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
+                            "TriggerActions": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionHighPrioritySlot, AEAssist",
+                                "SpellConfig": {
+                                  "Remark": "",
+                                  "Category": 0,
+                                  "SpellId": 7533,
+                                  "CoolDowncheck": true,
+                                  "CoolDowncheck_time": 0.0,
+                                  "TargetType": 0,
+                                  "IsPartyMember": true,
+                                  "LimitJobType": 0,
+                                  "LimitBuffIds": [],
+                                  "LimitMaxHpType": 0,
+                                  "LimitHpType": 0,
+                                  "Location": {
+                                    "X": 0.0,
+                                    "Y": 0.0,
+                                    "Z": 0.0
+                                  },
+                                  "TargetSelector": {
+                                    "Enable": false,
+                                    "Target": 0,
+                                    "FilterDatas": [],
+                                    "NeedTargetable": false,
+                                    "SndFilter": 0,
+                                    "PMIndex": 0
+                                  },
+                                  "AutoCheckActionChange": true
+                                },
+                                "Clear": false,
+                                "DisplayName": "技能使用/插入高优先级技能",
+                                "Remark": null
+                              }
+                            ],
+                            "DisplayName": "行为",
+                            "GUID": "05dd372c-2596-48a8-943e-8da4ff6b62b6",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 598,
+                            "Enable": true,
+                            "Remark": "挑衅"
                           },
                           {
                             "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
@@ -17543,9 +17524,59 @@
                               "Z": 0.4,
                               "W": 1.0
                             },
-                            "Id": 600,
+                            "Id": 599,
                             "Enable": true,
                             "Remark": "脉冲星震波"
+                          },
+                          {
+                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
+                            "TriggerActions": [
+                              {
+                                "$type": "AEAssist.CombatRoutine.Trigger.TriggerAction.TriggerActionHighPrioritySlot, AEAssist",
+                                "SpellConfig": {
+                                  "Remark": "",
+                                  "Category": 0,
+                                  "SpellId": 7533,
+                                  "CoolDowncheck": true,
+                                  "CoolDowncheck_time": 0.0,
+                                  "TargetType": 0,
+                                  "IsPartyMember": true,
+                                  "LimitJobType": 0,
+                                  "LimitBuffIds": [],
+                                  "LimitMaxHpType": 0,
+                                  "LimitHpType": 0,
+                                  "Location": {
+                                    "X": 0.0,
+                                    "Y": 0.0,
+                                    "Z": 0.0
+                                  },
+                                  "TargetSelector": {
+                                    "Enable": false,
+                                    "Target": 0,
+                                    "FilterDatas": [],
+                                    "NeedTargetable": false,
+                                    "SndFilter": 0,
+                                    "PMIndex": 0
+                                  },
+                                  "AutoCheckActionChange": true
+                                },
+                                "Clear": false,
+                                "DisplayName": "技能使用/插入高优先级技能",
+                                "Remark": null
+                              }
+                            ],
+                            "DisplayName": "行为",
+                            "GUID": "05dd372c-2596-48a8-943e-8da4ff6b62b6",
+                            "Important": false,
+                            "Color": {
+                              "X": 1.0,
+                              "Y": 1.0,
+                              "Z": 0.4,
+                              "W": 1.0
+                            },
+                            "Id": 600,
+                            "Enable": true,
+                            "Remark": "挑衅"
                           },
                           {
                             "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeActionNode, AEAssist",
@@ -18051,7 +18082,7 @@
                           "Z": 0.4,
                           "W": 1.0
                         },
-                        "Id": 598,
+                        "Id": 595,
                         "Enable": true,
                         "Remark": "分摊死刑"
                       },
@@ -18579,7 +18610,7 @@
                       "Z": 0.4,
                       "W": 1.0
                     },
-                    "Id": 597,
+                    "Id": 594,
                     "Enable": true,
                     "Remark": "P3分摊死刑/引导死刑"
                   },
