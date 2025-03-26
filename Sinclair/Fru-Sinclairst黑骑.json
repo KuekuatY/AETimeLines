@@ -14902,6 +14902,10 @@
                                   {
                                     "Key": "血溅",
                                     "Value": true
+                                  },
+                                  {
+                                    "Key": "血乱",
+                                    "Value": true
                                   }
                                 ],
                                 "DisplayName": "DRK/QT",
@@ -14919,7 +14923,7 @@
                             },
                             "Id": 510,
                             "Enable": true,
-                            "Remark": "开血溅"
+                            "Remark": "开血溅开血乱"
                           }
                         ],
                         "GUID": "85b2dbe5-c208-419f-b2c1-b03aafcec403",
