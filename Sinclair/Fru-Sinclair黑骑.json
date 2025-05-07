@@ -237,6 +237,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -432,6 +433,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -537,6 +539,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -649,6 +652,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -742,6 +746,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -910,6 +915,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -1056,6 +1062,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -1190,6 +1197,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -1302,6 +1310,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -1386,6 +1395,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -1459,11 +1469,19 @@
                                         "StopWhenDead": false,
                                         "Childs": [
                                           {
-                                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
-                                            "OnlyCheck": true,
-                                            "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.TLB)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
-                                            "DisplayName": "脚本节点",
-                                            "GUID": "43254fef-5cf3-4ee2-8a18-6b749ebd2906",
+                                            "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                                            "CondLogicType": 0,
+                                            "CheckOnce": false,
+                                            "ReverseResult": false,
+                                            "TriggerConds": [
+                                              {
+                                                "$type": "Sinclair.DarkKnight.Triggers.轴控检测.TriggerCondition_TLB, Sinclair",
+                                                "DisplayName": "通用/TLB检测",
+                                                "Remark": null
+                                              }
+                                            ],
+                                            "DisplayName": "等待条件",
+                                            "GUID": "4885ce35-3450-4bc2-bf30-481850d37419",
                                             "Important": false,
                                             "Color": {
                                               "X": 1.0,
@@ -1473,7 +1491,7 @@
                                             },
                                             "Id": 53,
                                             "Enable": true,
-                                            "Remark": "开启TLB"
+                                            "Remark": "TLB检测"
                                           },
                                           {
                                             "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
@@ -1535,6 +1553,7 @@
                                                   "AutoCheckActionChange": true
                                                 },
                                                 "Clear": false,
+                                                "DoubleClear": false,
                                                 "DisplayName": "技能使用/插入高优先级技能",
                                                 "Remark": null
                                               }
@@ -1628,6 +1647,7 @@
                                                   "AutoCheckActionChange": true
                                                 },
                                                 "Clear": false,
+                                                "DoubleClear": false,
                                                 "DisplayName": "技能使用/插入高优先级技能",
                                                 "Remark": null
                                               }
@@ -1721,6 +1741,7 @@
                                                   "AutoCheckActionChange": true
                                                 },
                                                 "Clear": false,
+                                                "DoubleClear": false,
                                                 "DisplayName": "技能使用/插入高优先级技能",
                                                 "Remark": null
                                               }
@@ -1817,6 +1838,7 @@
                                                   "AutoCheckActionChange": true
                                                 },
                                                 "Clear": false,
+                                                "DoubleClear": false,
                                                 "DisplayName": "技能使用/插入高优先级技能",
                                                 "Remark": null
                                               }
@@ -1910,6 +1932,7 @@
                                                   "AutoCheckActionChange": true
                                                 },
                                                 "Clear": false,
+                                                "DoubleClear": false,
                                                 "DisplayName": "技能使用/插入高优先级技能",
                                                 "Remark": null
                                               }
@@ -2003,6 +2026,7 @@
                                                   "AutoCheckActionChange": true
                                                 },
                                                 "Clear": false,
+                                                "DoubleClear": false,
                                                 "DisplayName": "技能使用/插入高优先级技能",
                                                 "Remark": null
                                               }
@@ -2594,6 +2618,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -3321,6 +3346,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -3474,6 +3500,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -3716,6 +3743,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -3809,6 +3837,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -3936,6 +3965,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -4275,6 +4305,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -4341,6 +4372,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -4487,6 +4519,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -4802,6 +4835,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -4895,6 +4929,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -4995,6 +5030,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -5088,6 +5124,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -5438,6 +5475,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -5717,6 +5755,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -5860,6 +5899,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -6189,6 +6229,7 @@
                                               "AutoCheckActionChange": true
                                             },
                                             "Clear": false,
+                                            "DoubleClear": false,
                                             "DisplayName": "技能使用/插入高优先级技能",
                                             "Remark": null
                                           }
@@ -6397,6 +6438,7 @@
                                               "AutoCheckActionChange": true
                                             },
                                             "Clear": false,
+                                            "DoubleClear": false,
                                             "DisplayName": "技能使用/插入高优先级技能",
                                             "Remark": null
                                           }
@@ -6585,6 +6627,7 @@
                                               "AutoCheckActionChange": true
                                             },
                                             "Clear": false,
+                                            "DoubleClear": false,
                                             "DisplayName": "技能使用/插入高优先级技能",
                                             "Remark": null
                                           }
@@ -6899,6 +6942,7 @@
                                                   "AutoCheckActionChange": true
                                                 },
                                                 "Clear": false,
+                                                "DoubleClear": false,
                                                 "DisplayName": "技能使用/插入高优先级技能",
                                                 "Remark": null
                                               }
@@ -7009,6 +7053,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -7155,6 +7200,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -7508,6 +7554,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -7601,6 +7648,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -7701,6 +7749,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -7794,6 +7843,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -7906,6 +7956,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -8975,11 +9026,19 @@
                                 "Remark": "潘多拉之盒"
                               },
                               {
-                                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeScriptNode, AEAssist",
-                                "OnlyCheck": false,
-                                "Script": "using AEAssist.CombatRoutine.Trigger;\nusing AEAssist.CombatRoutine.Trigger.Node;\nusing Sinclair.DarkKnight.Setting;\n\n\nnamespace Sinclair.DarkKnight.轴控\n{\n    internal class 绝伊甸自动拉怪:ITriggerScript\n    {\n        public bool Check(ScriptEnv scriptEnv,ITriggerCondParams condParams)\n        {\n            if (DarkKnightSettings.Instance.TLB)\n            {\n                return true;\n            }\n            return false;\n        }\n    }\n}",
-                                "DisplayName": "脚本节点",
-                                "GUID": "43254fef-5cf3-4ee2-8a18-6b749ebd2906",
+                                "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeCondNode, AEAssist",
+                                "CondLogicType": 0,
+                                "CheckOnce": false,
+                                "ReverseResult": false,
+                                "TriggerConds": [
+                                  {
+                                    "$type": "Sinclair.DarkKnight.Triggers.轴控检测.TriggerCondition_TLB, Sinclair",
+                                    "DisplayName": "通用/TLB检测",
+                                    "Remark": null
+                                  }
+                                ],
+                                "DisplayName": "等待条件",
+                                "GUID": "4885ce35-3450-4bc2-bf30-481850d37419",
                                 "Important": false,
                                 "Color": {
                                   "X": 1.0,
@@ -8989,7 +9048,7 @@
                                 },
                                 "Id": 306,
                                 "Enable": true,
-                                "Remark": "开启TLB"
+                                "Remark": "TLB检测"
                               },
                               {
                                 "$type": "AEAssist.CombatRoutine.Trigger.Node.TreeDelayNode, AEAssist",
@@ -9542,6 +9601,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -9619,6 +9679,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -9731,6 +9792,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -9824,6 +9886,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -11787,6 +11850,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -11939,6 +12003,7 @@
                                           "AutoCheckActionChange": true
                                         },
                                         "Clear": false,
+                                        "DoubleClear": false,
                                         "DisplayName": "技能使用/插入高优先级技能",
                                         "Remark": null
                                       }
@@ -12085,6 +12150,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -12162,6 +12228,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -12283,6 +12350,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -14115,6 +14183,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -14208,6 +14277,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -14367,6 +14437,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -14460,6 +14531,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -14593,6 +14665,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -14752,6 +14825,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -14898,6 +14972,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -14964,6 +15039,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -15041,6 +15117,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -15168,6 +15245,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -15234,6 +15312,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -15311,6 +15390,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -17589,6 +17669,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -17655,6 +17736,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -17732,6 +17814,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -17798,6 +17881,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -17875,6 +17959,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -17925,6 +18010,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -17991,6 +18077,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
@@ -18100,6 +18187,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18177,6 +18265,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18227,6 +18316,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18293,6 +18383,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18370,6 +18461,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18436,6 +18528,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18529,6 +18622,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18606,6 +18700,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -18672,6 +18767,7 @@
                                   "AutoCheckActionChange": true
                                 },
                                 "Clear": false,
+                                "DoubleClear": false,
                                 "DisplayName": "技能使用/插入高优先级技能",
                                 "Remark": null
                               }
@@ -19021,6 +19117,7 @@
                                       "AutoCheckActionChange": true
                                     },
                                     "Clear": false,
+                                    "DoubleClear": false,
                                     "DisplayName": "技能使用/插入高优先级技能",
                                     "Remark": null
                                   }
